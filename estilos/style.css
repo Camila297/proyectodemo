@@ -1,0 +1,26 @@
+
+
+.contenedor 
+{
+ background-color:#9f86c0;
+width:80%;
+margin:auto ;
+padding: 2px;
+margin: 4px solid black;
+}
+body
+{
+background-color: #c8b6ff;
+border-image: repeat;
+}
+h1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+} 
+img
+{
+background-color: black;
+padding: 5px;
+text-align: center;
+margin: 3px solid black;
+}
